@@ -1,4 +1,4 @@
-# React-Moshi-Thing
+# React-Moshi-Thing (Deprecated)
 React snippet for Thing class of schema.org.
 
 ## Usage
